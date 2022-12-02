@@ -1,1 +1,2 @@
 this the first commit(سوال دوم تمرین)
+ this is the second commit(soal 3/tamrin 6)
